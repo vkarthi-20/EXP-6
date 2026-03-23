@@ -9,6 +9,7 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 CIRCUIT DIAGRAM:
+
 <img width="717" height="649" alt="Screenshot 2026-03-23 215050" src="https://github.com/user-attachments/assets/22127d71-9f45-4b93-b977-75680de9a3fb" />
 
 PROCEDURE: -
@@ -31,7 +32,7 @@ PRECAUTION: -
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
-OUTPUT:
+OUTPUT: 
 
 <img width="1102" height="779" alt="Screenshot 2026-03-23 215836" src="https://github.com/user-attachments/assets/ff27bcec-1d4c-4c4f-9c14-326548a97887" />
 
